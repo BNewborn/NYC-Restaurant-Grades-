@@ -1,4 +1,4 @@
-# NYC-Restaurant-Grades-
+# NYC-Restaurant-Grades
 McNulty - Project #3 at Metis | Spring 2018
 
 This is the repository of my project on predicting NYC Health Inspection grades. This was completed in May 2018 as part of my Metis spring semester.
